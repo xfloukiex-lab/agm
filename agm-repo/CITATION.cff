@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use or reference AGM, please cite it as below."
+title: "AGM: An Afferent Self-Model for Interpretable, Self-Monitoring AI Agents"
+authors:
+  - family-names: Parnell
+    given-names: Alexander
+    affiliation: Vektorgeist
+abstract: >-
+  AGM is a self-model composed of three organs — Aitia (cause), Gut (instinct), and Metron
+  (measure) — that sits beside a language-model agent and observes it. Its defining constraint
+  is the Enoptron principle: AGM is afferent-only. It reports upward to the operator and sideways
+  into the agent's internal mood, but never re-enters the answer, becomes memory, or gates a
+  component. A self-model permitted to steer the output stops being an honest mirror and becomes
+  an unobservable controller; afferent-only keeps it honest. AGM is the flagship pillar of the
+  Vektorgeist Method (VGM).
+keywords:
+  - AI agents
+  - interpretability
+  - self-model
+  - AI safety
+  - agent observability
+  - drift detection
+  - afferent
+  - local AI
+  - Vektorgeist Method
+version: "1.0"
+date-released: 2026-07-20
+license: CC-BY-4.0
+type: article
+url: "https://vektorgeist.com/research"
