@@ -1,7 +1,23 @@
-# AGM — Zenodo submission package (ready to upload)
+# AGM — Zenodo submission package
 
-**Status:** ready. Zenodo needs no endorser (unlike arXiv). This file is the fill-in sheet — copy
-each field into the Zenodo "New upload" form. **Flouk does the actual upload** (identity + outbound).
+> ## ⚠ ALREADY PUBLISHED — 2026-07-27. DO NOT USE THIS SHEET AS-IS.
+>
+> **Published record: [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) —
+> *The Afferent Gnosis Model: Self-Knowledge Without Self-Control*.**
+>
+> This sheet was written 2026-07-20 and was **NOT** what got uploaded. Two of its fields are now
+> actively wrong, and both were corrected 2026-07-26:
+>
+> 1. **The title below was superseded.** The record was published as *The Afferent Gnosis Model:
+>    Self-Knowledge Without Self-Control*, not the title this sheet carried.
+> 2. **The abstract below described a RETRACTED mechanism.** It said AGM "reports upward to the
+>    operator **and sideways into the agent's internal mood**" — that sideways channel is the exact
+>    thing §7 reports was removed for producing an anxious agent. Pasting the old abstract would
+>    have published, as a live feature, the thing the paper says it took out. It was caught before
+>    use; the published description is newly written and correct.
+>
+> Both fields are corrected in place below. Kept, rather than deleted, because a fill-in sheet
+> that silently drifts from the paper is the failure worth remembering.
 
 ## Files to upload
 - `AGM-Paper.pdf` (generate from `Desktop/AGM-Paper.html` — see "Make the PDF" below), OR the `agm.md`
@@ -10,26 +26,18 @@ each field into the Zenodo "New upload" form. **Flouk does the actual upload** (
 ## Form fields
 
 - **Resource type:** Publication → *Preprint*
-- **Title:** `AGM: An Afferent Self-Model for Interpretable, Self-Monitoring AI Agents`
+- **Title:** `The Afferent Gnosis Model: Self-Knowledge Without Self-Control`
+  - (Corrected 2026-07-26. Was `AGM: An Afferent Self-Model for Interpretable, Self-Monitoring AI
+    Agents`; the published record uses the title above, and `agm.md`'s H1 now matches it.)
 - **Authors:** `Parnell, Alexander` — Affiliation: `Vektorgeist`
   - (Pen name. If you want your legal name on the archival record, add it yourself here at submission —
     Vanta never writes it. ORCID optional; you can register one free if you want a persistent author ID.)
-- **Description (abstract — paste as-is):**
-
-  > Modern language-model agents can produce fluent answers but cannot faithfully report *why* they
-  > produced them, nor notice when their own behavior is drifting. Asked to explain itself, a model
-  > generates a plausible after-the-fact story with no privileged access to the process that made the
-  > answer — confabulation, not introspection. We present AGM, a self-model composed of three organs —
-  > Aitía (cause), Gut (instinct), and Metron (measure) — that sits beside an agent and observes it.
-  > Aitía reasons about the cause of a given output; Metron measures recurrence and drift across time
-  > and feeds those measurements into Aitía; Gut reacts to an assembled draft with a fast, coarse
-  > instinct signal. The defining constraint is the Enóptron principle: AGM is afferent-only. It reports
-  > upward to the operator and sideways into the agent's internal mood, but it never re-enters the
-  > spoken answer, never becomes memory, and never gates a component. We argue this constraint is what
-  > separates a self-model from a hidden agenda: a self-model permitted to steer the output stops being
-  > an honest mirror and becomes an unobservable controller. AGM is cheap enough to run continuously on
-  > consumer hardware and yields a human-readable, real-time readout of an agent's causes, instincts,
-  > and trends without altering what the agent does.
+- **Description (abstract):** ⚠ **DO NOT reuse the 2026-07-20 text that stood here** — it described
+  the retracted "sideways into the agent's internal mood" channel as a live feature. The published
+  description is the correct one; read it from the record itself
+  ([10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154)) rather than from this sheet.
+  For any future version, take the abstract from `agm.md` — the paper is the source, this sheet is
+  not.
 
 - **License:** `Creative Commons Attribution 4.0 International (CC BY 4.0)` — max reach, keeps
   attribution. (Alternative if you want it locked tighter: CC BY-NC 4.0.)

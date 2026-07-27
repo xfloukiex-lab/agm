@@ -1,4 +1,4 @@
-# The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI
+# The Vektorgeist Method (VGM): Sovereign, Local, Self-Understanding AI
 
 **Alexander Parnell** · Vektorgeist
 *Position paper / program overview, 2026 · The Vektorgeist Method (VGM)*
@@ -150,28 +150,16 @@ open a systems paper.
 
 ## 6. The paper series
 
-VGM is a pipeline, not a single release. Four papers are archived; one is held back.
+VGM is a pipeline, not a single release:
 
-| | Paper | Status |
-|---|---|---|
-| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* — the afferent self-model | [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) |
-| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* — this overview | [10.5281/zenodo.21613156](https://doi.org/10.5281/zenodo.21613156) |
-| P3 | *Comparing Processes as Curves of Distributions* — the measurement track | [10.5281/zenodo.21612830](https://doi.org/10.5281/zenodo.21612830) |
-| P4 | *Learning Without Weights* — learning built on that measurement | [10.5281/zenodo.21612832](https://doi.org/10.5281/zenodo.21612832) |
-| — | The sovereign local stack — the systems paper | Forthcoming |
-
-They are one argument in four parts: P3 measures processes by their relations, P4 learns from
-those measurements without training weights, P1 turns the same relational premise on a machine's
-account of itself, and this paper states the method they share.
-
-The working record behind P3 and P4 — negative results and retractions included, with the original
-wrong wording kept visible rather than deleted — is at
-[xfloukiex-lab.github.io/hodos-study](https://xfloukiex-lab.github.io/hodos-study/).
+1. **AGM** — the afferent self-model. *Published (Parnell, 2026).*
+2. **The sovereign local stack** — the systems paper. *Forthcoming.*
+3. **This overview** — the program and its commitments.
+4. **Hodos** — a distance between processes represented as curves of probability distributions (the method's measurement track). *Drafted (2026).*
 
 Further coined components fold in as the program continues; a running index is maintained at
-[vektorgeist.com/research](https://vektorgeist.com/research), with each paper archived to a
-persistent DOI. The method is meant to accumulate — to become a citable body of work under one
-name — rather than to arrive all at once.
+`vektorgeist.com/research`, with each paper archived to a persistent DOI. The method is meant to
+accumulate — to become a citable body of work under one name — rather than to arrive all at once.
 
 ## 7. Conclusion
 
@@ -188,13 +176,8 @@ because it belongs to you.
 
 ### References
 
-- Parnell, A. (2026). *The Afferent Gnosis Model: Self-Knowledge Without Self-Control.* Preprint,
-  Zenodo. [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154). The flagship pillar
-  of VGM. (AGM reads both as the Afferent Gnosis Model and as its organs — Aitía, Gut, Metron.)
-- Parnell, A. (2026). *Comparing Processes as Curves of Distributions.* Preprint, Zenodo.
-  [10.5281/zenodo.21612830](https://doi.org/10.5281/zenodo.21612830).
-- Parnell, A. (2026). *Learning Without Weights.* Preprint, Zenodo.
-  [10.5281/zenodo.21612832](https://doi.org/10.5281/zenodo.21612832).
+- Parnell, A. (2026). *AGM: An Afferent Self-Model for Interpretable, Self-Monitoring AI Agents.*
+  Preprint (Zenodo). The flagship pillar of VGM.
 - Parnell, A. (2026). *Your Past Loves You.* Literary nonfiction. (The program's humanistic premise:
   connection as the substrate of memory and identity.)
 

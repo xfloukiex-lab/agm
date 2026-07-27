@@ -1,13 +1,7 @@
-# The Afferent Gnosis Model: Self-Knowledge Without Self-Control
+# AGM: An Afferent Self-Model for Interpretable, Self-Monitoring AI Agents
 
 **Alexander Parnell** · Vektorgeist
 *Preprint, 2026 · Part of the Vektorgeist Method (VGM)*
-*Archived: [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) · CC-BY-4.0*
-
-> **On the name.** **AGM** reads two ways, and both are intended. It is the
-> **A**fferent **G**nosis **M**odel — a model of knowing (*gnosis*) that flows inward
-> (*afferent*) only. It is also its three organs: **A**itía, **G**ut, **M**etron. The
-> title names what the thing is; the organs spell how it is built.
 
 > The reference implementation is described generically on purpose (the product stays private); AGM
 > is presented as an architecture-independent framework. AGM is the flagship pillar of the
@@ -453,26 +447,6 @@ without being covertly steered by its own self-image. A mirror, not a hand.
   Explanations in Chain-of-Thought Prompting.* NeurIPS. arXiv:2305.04388.
 - Langfuse; Braintrust. *Agent observability and tracing tooling* (production software).
 
-### The Vektorgeist Method paper series
-
-This paper is one of four archived together. They share a premise — that what a thing *is*
-lives in its pattern of relations rather than in its substrate — and each takes it somewhere
-different: AGM applies it to a machine's account of itself, Hodos to measuring processes,
-Learning Without Weights to learning from those measurements, and the programme paper to the
-method the three have in common.
-
-| | Paper | DOI |
-|---|---|---|
-| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* (this paper) | [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) |
-| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* | [10.5281/zenodo.21613156](https://doi.org/10.5281/zenodo.21613156) |
-| P3 | *Comparing Processes as Curves of Distributions: an Information-Geometry Distance, Validated Across Modalities on Real Data* | [10.5281/zenodo.21612830](https://doi.org/10.5281/zenodo.21612830) |
-| P4 | *Learning Without Weights: a Geometric Learner that Needs Less Data, Predicts Without Training, and Cannot Forget* | [10.5281/zenodo.21612832](https://doi.org/10.5281/zenodo.21612832) |
-
-The working record behind the measurement papers — including the negative results and the
-retractions, with the original wrong wording kept visible — is at
-[xfloukiex-lab.github.io/hodos-study](https://xfloukiex-lab.github.io/hodos-study/). All four
-are indexed at [vektorgeist.com/research](https://vektorgeist.com/research).
-
 *Reference identifiers are re-verified at archival submission. AGM is the flagship pillar of the
-**Vektorgeist Method (VGM)**. Correspondence: Vektorgeist. Author: Alexander Parnell. Archived at
-Zenodo (DOI), with the framework also hosted at vektorgeist.com/research.*
+**Vektorgeist Method (VGM)**. Correspondence: Vektorgeist. Author: Alexander Parnell. Intended archival
+venue: Zenodo (DOI), with the framework also hosted at vektorgeist.com/research.*
