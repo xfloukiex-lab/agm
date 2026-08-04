@@ -2,7 +2,7 @@
 
 **Alexander Parnell** · Vektorgeist
 *Preprint, 2026 · Part of the Vektorgeist Method (VGM)*
-*Archived: [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) · CC-BY-4.0*
+*Archived: [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) · CC-BY-4.0*
 
 > **On the name.** **AGM** reads two ways, and both are intended. It is the
 > **A**fferent **G**nosis **M**odel — a model of knowing (*gnosis*) that flows inward
@@ -463,10 +463,10 @@ method the three have in common.
 
 | | Paper | DOI |
 |---|---|---|
-| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* (this paper) | [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) |
-| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* | [10.5281/zenodo.21613156](https://doi.org/10.5281/zenodo.21613156) |
-| P3 | *Comparing Processes as Curves of Distributions: an Information-Geometry Distance, Validated Across Modalities on Real Data* | [10.5281/zenodo.21612830](https://doi.org/10.5281/zenodo.21612830) |
-| P4 | *Learning Without Weights: a Geometric Learner that Needs Less Data, Predicts Without Training, and Cannot Forget* | [10.5281/zenodo.21612832](https://doi.org/10.5281/zenodo.21612832) |
+| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* (this paper) | [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) |
+| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* | [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155) |
+| P3 | *Comparing Processes as Curves of Distributions: an Information-Geometry Distance, Validated Across Modalities on Real Data* | [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
+| P4 | *Learning Without Weights: a Geometric Learner that Needs Less Data, Predicts Without Training, and Cannot Forget* | [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831) |
 
 The working record behind the measurement papers — including the negative results and the
 retractions, with the original wrong wording kept visible — is at

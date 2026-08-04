@@ -100,8 +100,7 @@ constraints), producing a faithful, human-readable readout of *why* it did somet
 is drifting*, under the strict afferent-only rule described in 2.4. All three organs run in the
 reference agent. AGM is the clearest single expression of the VGM stance: the relational premise
 applied to selfhood — self-understanding without self-steering. It is presented in full in the
-companion paper, *AGM: An Afferent Self-Model for Interpretable, Self-Monitoring AI Agents*
-(Parnell, 2026).
+companion paper, *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* (Parnell, 2026).
 
 **Connection memory.** Memory in a VGM system is treated as *connected information*, not a flat log: a
 graph of facts and relationships, retrieved by explicit, inspectable ranking rather than by a single
@@ -154,10 +153,10 @@ VGM is a pipeline, not a single release. Four papers are archived; one is held b
 
 | | Paper | Status |
 |---|---|---|
-| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* — the afferent self-model | [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154) |
-| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* — this overview | [10.5281/zenodo.21613156](https://doi.org/10.5281/zenodo.21613156) |
-| P3 | *Comparing Processes as Curves of Distributions* — the measurement track | [10.5281/zenodo.21612830](https://doi.org/10.5281/zenodo.21612830) |
-| P4 | *Learning Without Weights* — learning built on that measurement | [10.5281/zenodo.21612832](https://doi.org/10.5281/zenodo.21612832) |
+| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* — the afferent self-model | [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) |
+| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* — this overview | [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155) |
+| P3 | *Comparing Processes as Curves of Distributions* — the measurement track | [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
+| P4 | *Learning Without Weights* — learning built on that measurement | [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831) |
 | — | The sovereign local stack — the systems paper | Forthcoming |
 
 They are one argument in four parts: P3 measures processes by their relations, P4 learns from
@@ -189,12 +188,12 @@ because it belongs to you.
 ### References
 
 - Parnell, A. (2026). *The Afferent Gnosis Model: Self-Knowledge Without Self-Control.* Preprint,
-  Zenodo. [10.5281/zenodo.21613154](https://doi.org/10.5281/zenodo.21613154). The flagship pillar
+  Zenodo. [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153). The flagship pillar
   of VGM. (AGM reads both as the Afferent Gnosis Model and as its organs — Aitía, Gut, Metron.)
 - Parnell, A. (2026). *Comparing Processes as Curves of Distributions.* Preprint, Zenodo.
-  [10.5281/zenodo.21612830](https://doi.org/10.5281/zenodo.21612830).
+  [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829).
 - Parnell, A. (2026). *Learning Without Weights.* Preprint, Zenodo.
-  [10.5281/zenodo.21612832](https://doi.org/10.5281/zenodo.21612832).
+  [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831).
 - Parnell, A. (2026). *Your Past Loves You.* Literary nonfiction. (The program's humanistic premise:
   connection as the substrate of memory and identity.)
 
