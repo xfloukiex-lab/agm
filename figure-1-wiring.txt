@@ -1,0 +1,19 @@
+Figure 1 — AGM's afferent-only wiring. Signals flow INTO the self-model and OUT only to the
+operator; the barred paths are structurally absent, not merely discouraged.
+
+     agent ── draft + context ──▶┐                    the answer ─────────▶ user
+       ▲                         │                    (composed with NO AGM signal in the pipeline)
+       │ (unaltered)             ▼
+       │            ┌──────────────── AGM ────────────────┐
+       │            │  Metron ──(recurrence / drift)──▶ Aitía │   Aitía  = cause
+       │            │  Gut    ──(ok / uneasy / opposed)──▶    │   Gut    = instinct
+       │            └───────────────┬──────────────────────┘   Metron = measure (over time)
+       │                afferent up │  (the ONLY output)
+       │                            ▼
+       │                    operator panel
+       │            (causes · reactions · trends)
+       │
+       └──── FORBIDDEN (efferent — absent by construction):
+               ✗ AGM ─▶ the answer          ✗ AGM ─▶ memory
+               ✗ AGM ─▶ any state a component reads (mood/flag/bias)
+               ✗ AGM ─▶ gate/override any component
