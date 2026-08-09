@@ -2,12 +2,12 @@
 
 **Staged 2026-07-26 17:5x CDT. NOT merged into `agm.md`.**
 
-`agm.md` is being released right now (Flouk, 2026-07-26). Editing the source mid-release
+`agm.md` is being released right now (the owner, 2026-07-26). Editing the source mid-release
 would put the file on disk out of step with the artifact going out, which is the exact
 drift the P1/P3 stale-PDF note in the VGM router already warns about. So this is written
-as ready-to-merge blocks, to be folded into the **next** revision on Flouk's word.
+as ready-to-merge blocks, to be folded into the **next** revision on instruction.
 
-Voice matched to the Flouk-approved P1 (2026-07-20). Nothing here contradicts the current
+Voice matched to the the owner-approved P1 (2026-07-20). Nothing here contradicts the current
 text; it extends §6 and §7 and adds one reference.
 
 ---
@@ -113,7 +113,7 @@ Proposed:
 >   comparison of architectures.
 
 *(Exact citation form pending: whether to name the repository, or cite the published audit
-document, or keep it as an unnamed case. Flouk's call — the project is a friend's, the audit
+document, or keep it as an unnamed case. pending owner sign-off — the project is a friend's, the audit
 is public, and their operator has been emailed about this connection. Naming is courteous only
 if they are comfortable being named; do not name without asking.)*
 

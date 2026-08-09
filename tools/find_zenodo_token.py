@@ -1,6 +1,6 @@
 """Locate the Zenodo token in the transcript archive and verify it — WITHOUT printing it.
 
-Flouk 2026-07-26: "use magpie-search it was leaked in the transcripts i put it there
+decided 2026-07-26: "use magpie-search it was leaked in the transcripts i put it there
 on purpose."
 
 Doing that as a literal magpie search would return the token value in a result snippet,

@@ -31,7 +31,7 @@
     Agents`; the published record uses the title above, and `agm.md`'s H1 now matches it.)
 - **Authors:** `Parnell, Alexander` — Affiliation: `Vektorgeist`
   - (Pen name. If you want your legal name on the archival record, add it yourself here at submission —
-    Vanta never writes it. ORCID optional; you can register one free if you want a persistent author ID.)
+    never written by the assistant. ORCID optional; you can register one free if you want a persistent author ID.)
 - **Description (abstract):** ⚠ **DO NOT reuse the 2026-07-20 text that stood here** — it described
   the retracted "sideways into the agent's internal mood" channel as a live feature. The published
   description is the correct one; read it from the record itself
@@ -66,5 +66,5 @@ Headless Chrome print of the readable page (already on the Desktop):
 4. arXiv on a parallel track once an endorser (cs.AI / cs.SE) is found.
 
 ## Discipline (do not violate)
-- Byline = **Alexander Parnell** only. Legal name, if ever, is added by Flouk at submission.
-- Zenodo upload + any arXiv submission are **Flouk's action** (identity + outbound). Vanta preps only.
+- Byline = **Alexander Parnell** only. Legal name, if ever, is added by the owner at submission.
+- Zenodo upload + any arXiv submission are **the owner's action** (identity + outbound). Vanta preps only.

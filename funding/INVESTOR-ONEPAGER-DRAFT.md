@@ -1,6 +1,6 @@
 # Vektorgeist — investor one-pager DRAFT (PRIVATE; sent to no one; owners decide targets)
 
-*(Drafted 2026-08-04 01:11:45 CDT. Company decisions are Flouk+Lee's jointly; this draft goes to
+*(Drafted 2026-08-04 01:11:45 CDT. Company decisions are the owner+Lee's jointly; this draft goes to
 them first, then only to specific people they name. Not for public posting — a public "invest in
 us" page is securities-shaped exposure a donation page doesn't have.)*
 

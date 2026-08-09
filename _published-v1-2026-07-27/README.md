@@ -9,5 +9,5 @@ post-publication edits. Do not edit anything in here.
 Why: the parent files are being corrected (title alignment + paper-series
 cross-links). Rebuilding the artifacts overwrites the exact PDFs that were
 uploaded, and losing the published bytes would make it impossible to say later
-what the DOI actually contains. Any re-upload is Flouk's call and would be a
+what the DOI actually contains. Any re-upload is pending owner sign-off and would be a
 NEW Zenodo version, not a silent replacement.

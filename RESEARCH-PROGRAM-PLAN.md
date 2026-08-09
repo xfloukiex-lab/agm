@@ -1,15 +1,15 @@
 # Vektorgeist Research Program — coinage + archive-paper plan
 
-**Decided (Flouk 2026-07-19):** full research-program scope · publish everywhere · byline = Alexander Parnell.
+**Decided (decided 2026-07-19):** full research-program scope · publish everywhere · byline = Alexander Parnell.
 **Model:** Jake Van Clief's ICM — a coined methodology → arXiv paper (endorsed via a co-author) → GitHub repo →
 guide → Substack. We do the same at program scale.
 
 ## Byline & legal-name discipline (LOAD-BEARING — do not violate)
-- Public author byline = **Alexander Parnell** (Flouk's cleared pen name, the identity he's publicly known by) +
+- Public author byline = **Alexander Parnell** (the cleared pen name, the publicly known identity) +
   affiliation **Vektorgeist**.
 - A preprint does NOT legally require a legal name; pseudonymous authorship is valid on Zenodo/arXiv. The pen name
   is the privacy-preserving AND academically-valid default.
-- If Flouk chooses to add his legal name to a FINAL published version, **he adds it himself at submission** (same
+- If the owner chooses to add a legal name to a FINAL published version, **he adds it himself at submission** (same
   handling as the NLnet grant contract). Vanta NEVER writes the legal name into any draft, repo, memory, KG, or
   transcript. (Non-negotiable.)
 
@@ -30,7 +30,7 @@ guide → Substack. We do the same at program scale.
 - **P2 — Pallium (systems paper).** Design/architecture of the sovereign local AI stack (warden gateway · Mnema
   memory · magpie retrieval · veil · pseudo · vektorpool). Source = the existing public technical annex.
   **🚩 DESIGN-LEVEL ONLY** — the NLnet grant HOLDS milestone implementations until after award; publishing that
-  work early makes it unbillable (Flouk's production rule). So this paper describes the architecture, not finished
+  work early makes it unbillable (a standing production rule). So this paper describes the architecture, not finished
   milestone code. (Open decision: ship design-level now, or hold P2 entirely until after the grant awards.)
 - **P3 — Research-program overview (position paper).** Ties AGM + Pallium + the philosophy into one named body —
   the umbrella/manifesto.
@@ -38,7 +38,7 @@ guide → Substack. We do the same at program scale.
   paper, so future contributions (Mnema, newborn, irix, talon-method, oracle-disposes grading, etc.) fold in as
   papers/sections consistently as we keep researching.
 
-## Publish everywhere (Flouk 2026-07-19)
+## Publish everywhere (decided 2026-07-19)
 - **Zenodo FIRST** per paper — real DOI, no gatekeeping (CERN-backed).
 - **arXiv** — pursue an endorser (how Jake got in; cs.AI / cs.SE) on a parallel track.
 - **GitHub repo per paper** + a **guide** (README/gist) — the ICM playbook.
@@ -59,7 +59,7 @@ guide → Substack. We do the same at program scale.
   Braintrust — tooling that RECORDS the agent). **AGM's afferent-only, powerless-by-design self-model is the
   wedge** — the opposite of the efferent self-correction line. This is the defensible contribution + P1's related-work spine.
 
-## Open decisions (for Flouk)
-- ~~P2 Pallium timing~~ **DECIDED 2026-07-19 (Flouk): HOLD P2 entirely until after the NLnet grant awards.** Do not
+## Open decisions (owner)
+- ~~P2 Pallium timing~~ **DECIDED 2026-07-19 (the owner): HOLD P2 entirely until after the NLnet grant awards.** Do not
   publish Pallium (even design-level) before award — front-running makes the milestone work unbillable. Revisit once
   the grant lands.
