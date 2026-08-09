@@ -39,7 +39,7 @@ This is the **concept DOI** — it always resolves to the newest version of the 
 
 ## The rest of the series
 
-- **P2** — *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* — [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155)
+- **P2** — *The Vektorgeist Method (VGM)* — [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155)
 - **P3** — *Comparing Processes as Curves of Distributions* — [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829)
 - **P4** — *Learning Without Weights* — [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831)
 

@@ -1,15 +1,23 @@
-# The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI
+# The Vektorgeist Method (VGM)
 
 **Alexander Parnell** · [Vektorgeist](https://vektorgeist.com) · <floukie@vektorgeist.com>
 *Position paper / program overview, 2026 · The Vektorgeist Method (VGM)*
 
-> ⛔ **READ THIS BEFORE THE TITLE MISLEADS YOU. VGM IS NOT AN AI METHOD.** This paper is titled *"a
-> Programme for Model-Free, Locally Sovereign AI"* because building AI that runs on your own machine
-> was **the first thing the method was pointed at** — one application, not the subject. The method is
-> a way of working with **processes**, and the equations it generates have since been measured on
-> speech, handwriting, cardiac rhythm, human body motion, turbulence, jet-engine degradation,
-> spacecraft telemetry, emission spectra, sonar returns and the Riemann zeta zeros. Most of that is
-> not artificial intelligence.
+> ⚠ **RETITLED 2026-08-09. This paper was published as *"The Vektorgeist Method: a Programme for
+> Model-Free, Locally Sovereign AI"*, and that subtitle is why VGM kept being read as an AI method.**
+> Building AI that runs on your own machine was **the first thing the method was pointed at** — one
+> application, never the subject — but a subtitle is read as a definition, and a disclaimer beneath a
+> misleading title does not undo it. The subtitle is gone; the name is the title.
+> **The concept DOI, the 2026-07-27 publication date and every existing citation are unchanged. A
+> retitle does not re-date the work** — the same discipline applied when the premise was named the
+> Hodos Hypothesis and when the distance equation was named Hodos Diastema.
+
+> **VGM is the research programme and its working discipline**, downstream of one premise: *nothing
+> is what it is in isolation; a thing — including a self — is the pattern of its connections, not its
+> substrate.* That premise is **the Hodos Hypothesis** (§5), and everything here derives from it. The
+> equations it generates have been measured on speech, handwriting, cardiac rhythm, human body
+> motion, turbulence, jet-engine degradation, spacecraft telemetry, emission spectra, sonar returns
+> and the Riemann zeta zeros. Most of that is not artificial intelligence.
 >
 > **Four distinct things, routinely confused:**
 > **The Hodos Hypothesis** — the premise, stated in §5 of this paper: *nothing is what it is in
@@ -235,7 +243,7 @@ VGM is a pipeline, not a single release. Four papers are archived; one is held b
 | | Paper | Status |
 |---|---|---|
 | P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* — the afferent self-model | [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) |
-| P2 | *The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI* — this overview | [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155) |
+| P2 | *The Vektorgeist Method (VGM)* — this overview | [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155) |
 | P3 | *Comparing Processes as Curves of Distributions* — the measurement track | [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
 | P4 | *Learning Without Weights* — learning built on that measurement | [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831) |
 | — | The sovereign local stack — the systems paper | Forthcoming |
