@@ -1,7 +1,30 @@
 # The Vektorgeist Method: a Programme for Model-Free, Locally Sovereign AI
 
-**Alexander Parnell** · Vektorgeist
+**Alexander Parnell** · [Vektorgeist](https://vektorgeist.com) · <floukie@vektorgeist.com>
 *Position paper / program overview, 2026 · The Vektorgeist Method (VGM)*
+
+> ⛔ **READ THIS BEFORE THE TITLE MISLEADS YOU. VGM IS NOT AN AI METHOD.** This paper is titled *"a
+> Programme for Model-Free, Locally Sovereign AI"* because building AI that runs on your own machine
+> was **the first thing the method was pointed at** — one application, not the subject. The method is
+> a way of working with **processes**, and the equations it generates have since been measured on
+> speech, handwriting, cardiac rhythm, human body motion, turbulence, jet-engine degradation,
+> spacecraft telemetry, emission spectra, sonar returns and the Riemann zeta zeros. Most of that is
+> not artificial intelligence.
+>
+> **Four distinct things, routinely confused:**
+> **The Hodos Hypothesis** — the premise, stated in §5 of this paper: *nothing is what it is in
+> isolation; a thing, including a self, is the pattern of its connections, not its substrate.* An
+> ontology · **VGM** — this document: the research programme and its working discipline ·
+> **the Hodos family** ([`10.5281/zenodo.21850666`](https://doi.org/10.5281/zenodo.21850666)) — the
+> equations the premise generates: *Hodos Diastema* (distance,
+> [`10.5281/zenodo.21612829`](https://doi.org/10.5281/zenodo.21612829)), *Symploke* (emergence),
+> *Systasis* (constitution), *Chronos* (duration) · **AGM**
+> ([`10.5281/zenodo.21613153`](https://doi.org/10.5281/zenodo.21613153)) — **one pillar inside VGM**,
+> a strictly afferent self-model, not a synonym for the method.
+>
+> ⚠ *Hodos Diastema* was named 2026-08-09; earlier work calls it simply "Hodos". The equation, its
+> DOI and every existing citation are unchanged — the name does not re-date the work. It exists
+> because one word was carrying both the premise and the equation.
 
 > This paper names and frames a research program. It is the umbrella over a series of focused works —
 > the first of which, on the afferent self-model AGM, is published separately. A systems paper on the
@@ -17,7 +40,9 @@ Method (VGM)** — a methodology built on one premise taken literally: **nothing
 isolation; a thing — including a self — is the pattern of its connections, not its substrate.** From
 that premise the method derives five commitments: it runs **locally** on hardware you own; it is
 **model-free wherever a deterministic algorithm suffices**, so its behavior is inspectable rather
-than inferred; it grades generated work by an explicit rule — **"model proposes, oracle disposes"** —
+than inferred — a premise of this kind generates a **family** of equations rather than one, and §5.2
+names the four posed so far and which of them survive their tests; it grades generated work by an
+explicit rule — **"model proposes, oracle disposes"** —
 rather than trusting fluency; it observes itself through an **afferent-only self-model** that reads
 the pattern behind its behavior and reports without steering — the beginning of a relational theory
 of machine selfhood; and it holds that **emergence is a property of the pattern, never authored** —
@@ -140,6 +165,62 @@ digging in the weights, emergence left to arise from the pattern rather than ins
 machines it amounts to the start of a **relational theory of machine selfhood**: the question is not
 whether a model can peer inside its own substrate, but whether the pattern that *is* its behavior
 can be made legible — and witnessed by something with no power to bend it.
+
+### 5.1 The regress does not halt
+
+> **Clarification added 2026-08-08.** This subsection states explicitly a consequence that §5 above
+> carries but does not spell out. It amplifies the premise published in the first archived version
+> of this paper (2026-07-27); **it does not alter or re-date that premise**, and §5 as published
+> stands unchanged.
+
+A natural objection to §5 is that the parts must exist before the pattern does — the components
+precede whatever arises from their arrangement — so there is, after all, something that simply *is*
+what it is, underneath. The objection is half right, and the half it gets right is not the half it
+needs.
+
+The priority is real but **local**. Two halves must exist before one does; the one is not a third
+object added to them but what their relation constitutes. Each half, however, stands in exactly the
+same position: it is what the relation of two quarters constitutes. The series does not terminate in
+an unrelated object. At every level the thing exists because two or more further things stand in
+relation, and the same holds of those in turn. **So granting that the components precede the
+emergence grants nothing about substance — the components are themselves emergences of the same
+form, one level down.**
+
+There is no floor at which relation stops and bare substrate begins. That is why the premise is
+scale-free rather than pitched at some chosen level of description, and it is the reason a method
+derived from it is not restricted to a particular kind of matter or signal: what it requires of a
+system is only that the system be constituted relationally, which on this premise is the only way
+anything is constituted at all.
+
+### 5.2 The premise generates a family of equations, not one
+
+> **Added 2026-08-08.** Section 5 as first archived described the programme's measurement track by
+> a single equation. That understated it, and the correction is worth making explicitly rather
+> than by implication.
+
+A premise about how things are constituted implies more than one question, and each question wants
+its own equation. Four have been posed; they share a root name because they share the premise.
+
+| | Name | The question it asks | Status |
+|---|---|---|---|
+| I | **Hodos** — the Hodos Distance | Given two processes, how far apart are they? | published, [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
+| II | **Hodos Symploke** | What does a relationship create that is in neither part? | measured; clears its criteria |
+| III | **Hodos Systasis** | What *are* the distributions a process is made of? | did not clear; named, not claimed |
+| IV | **Hodos Chronos** | How much time has a process actually lived? | did not clear; named, not claimed |
+
+*Hodos* (ὁδός) is the way or path — the word inside *method*. *Symploke* is interweaving,
+*systasis* composition, *chronos* duration.
+
+**Only the first is a published equation and only the second currently clears its tests.** The
+other two are stated because a programme that names its open problems is more useful than one that
+lists only its wins: Systasis is beaten by a frame built from a window's own values with no
+relations in it at all, and Chronos is well posed on smooth processes and diverges on noisy ones
+in the manner of a coastline. Both are reported with the measurements that stopped them.
+
+The family is treated in its own paper, *The Hodos Family: Equations Generated by a Relational
+Premise*, which carries the formulas, the provenance tags and the criteria. The point for this
+overview is only that **the measurement track is a family and not a single ruler** — the ruler was
+simply the first member anybody needed.
 
 That premise is argued at length, for a general reader and without any of the engineering, in a
 companion work of literary nonfiction, *Your Past Loves You* (Parnell, 2026). It is not a book about AI;

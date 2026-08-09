@@ -1,8 +1,18 @@
 # The Afferent Gnosis Model: Self-Knowledge Without Self-Control
 
-**Alexander Parnell** · Vektorgeist
+**Alexander Parnell** · [Vektorgeist](https://vektorgeist.com) · <floukie@vektorgeist.com>
 *Preprint, 2026 · Part of the Vektorgeist Method (VGM)*
 *Archived: [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) · CC-BY-4.0*
+
+> ⚠ **AGM is ONE PILLAR of the Vektorgeist Method, not a synonym for it.** VGM
+> ([`10.5281/zenodo.21613155`](https://doi.org/10.5281/zenodo.21613155)) is the research programme;
+> **the Hodos Hypothesis** (P3 §5, same DOI) is the premise underneath both — *nothing is what it is
+> in isolation; a thing is the pattern of its connections* — and the **Hodos family** of equations
+> ([`10.5281/zenodo.21850666`](https://doi.org/10.5281/zenodo.21850666)) is that premise applied to
+> measurement: *Diastema* (distance), *Symploke* (emergence), *Systasis* (constitution), *Chronos*
+> (duration). **VGM is not an AI method** — those equations have been measured on speech,
+> handwriting, cardiac rhythm, body motion, turbulence, jet-engine degradation, spacecraft
+> telemetry, spectra, sonar and the Riemann zeta zeros. Locally sovereign AI is one application.
 
 > **On the name.** **AGM** reads two ways, and both are intended. It is the
 > **A**fferent **G**nosis **M**odel — a model of knowing (*gnosis*) that flows inward
