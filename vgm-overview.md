@@ -3,41 +3,6 @@
 **Alexander Parnell** · [Vektorgeist](https://vektorgeist.com) · <floukie@vektorgeist.com>
 *Position paper / program overview, 2026 · The Vektorgeist Method (VGM)*
 
-> ⚠ **RETITLED 2026-08-09. This paper was published as *"The Vektorgeist Method: a Programme for
-> Model-Free, Locally Sovereign AI"*, and that subtitle is why VGM kept being read as an AI method.**
-> Building AI that runs on your own machine was **the first thing the method was pointed at** — one
-> application, never the subject — but a subtitle is read as a definition, and a disclaimer beneath a
-> misleading title does not undo it. The subtitle is gone; the name is the title.
-> **The concept DOI, the 2026-07-27 publication date and every existing citation are unchanged. A
-> retitle does not re-date the work** — the same discipline applied when the premise was named the
-> Hodos Hypothesis and when the distance equation was named Hodos Diastema.
-
-> **VGM is the research programme and its working discipline**, downstream of one premise: *nothing
-> is what it is in isolation; a thing — including a self — is the pattern of its connections, not its
-> substrate.* That premise is **the Hodos Hypothesis** (§5), and everything here derives from it. The
-> equations it generates have been measured on speech, handwriting, cardiac rhythm, human body
-> motion, turbulence, jet-engine degradation, spacecraft telemetry, emission spectra, sonar returns
-> and the Riemann zeta zeros. Most of that is not artificial intelligence.
->
-> **Four distinct things, routinely confused:**
-> **The Hodos Hypothesis** — the premise, stated in §5 of this paper: *nothing is what it is in
-> isolation; a thing, including a self, is the pattern of its connections, not its substrate.* An
-> ontology · **VGM** — this document: the research programme and its working discipline ·
-> **the Hodos family** ([`10.5281/zenodo.21850666`](https://doi.org/10.5281/zenodo.21850666)) — the
-> equations the premise generates: *Hodos Diastema* (distance,
-> [`10.5281/zenodo.21612829`](https://doi.org/10.5281/zenodo.21612829)), *Symploke* (emergence),
-> *Systasis* (constitution), *Chronos* (duration) · **AGM**
-> ([`10.5281/zenodo.21613153`](https://doi.org/10.5281/zenodo.21613153)) — **one pillar inside VGM**,
-> a strictly afferent self-model, not a synonym for the method.
->
-> ⚠ *Hodos Diastema* was named 2026-08-09; earlier work calls it simply "Hodos". The equation, its
-> DOI and every existing citation are unchanged — the name does not re-date the work. It exists
-> because one word was carrying both the premise and the equation.
-
-> This paper names and frames a research program. It is the umbrella over a series of focused works —
-> the first of which, on the afferent self-model AGM, is published separately. A systems paper on the
-> sovereign local stack follows. This overview states the shared commitments and how the pieces fit.
-
 ---
 
 ## Abstract
@@ -211,19 +176,28 @@ its own equation. Four have been posed; they share a root name because they shar
 
 | | Name | The question it asks | Status |
 |---|---|---|---|
-| I | **Hodos** — the Hodos Distance | Given two processes, how far apart are they? | published, [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
+| I | **Hodos Diastema** — the distance | Given two processes, how far apart are they? | published, [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
 | II | **Hodos Symploke** | What does a relationship create that is in neither part? | measured; clears its criteria |
 | III | **Hodos Systasis** | What *are* the distributions a process is made of? | did not clear; named, not claimed |
-| IV | **Hodos Chronos** | How much time has a process actually lived? | did not clear; named, not claimed |
+| IV | **Hodos Chronos** | How much time has a process actually lived? | clears four of five criteria; the fifth fails, published, [10.5281/zenodo.21861429](https://doi.org/10.5281/zenodo.21861429) |
 
-*Hodos* (ὁδός) is the way or path — the word inside *method*. *Symploke* is interweaving,
-*systasis* composition, *chronos* duration.
+*Hodos* (ὁδός) is the way or path — the word inside *method*. *Diastema* is interval, *symploke*
+interweaving, *systasis* composition, *chronos* duration.
 
-**Only the first is a published equation and only the second currently clears its tests.** The
-other two are stated because a programme that names its open problems is more useful than one that
-lists only its wins: Systasis is beaten by a frame built from a window's own values with no
-relations in it at all, and Chronos is well posed on smooth processes and diverges on noisy ones
-in the manner of a coastline. Both are reported with the measurements that stopped them.
+> **Updated 2026-08-09.** The first member is now named **Hodos Diastema**; it was published in 2026
+> as simply "Hodos" and the name does not re-date that paper or invalidate any citation of it. The
+> bare word was doing two jobs — the premise and the distance equation — so readers met "Hodos",
+> took it for the equation, and never reached the hypothesis underneath.
+
+**Two of the four clear the criteria set for them, and the other two are stated because a programme
+that names its open problems is more useful than one that lists only its wins.** Systasis is beaten
+by a frame built from a window's own values with no relations in it at all. Chronos, taken as arc
+length through the geometry, is well posed on smooth processes and diverges on noisy ones in the
+manner of a coastline — **but that is a verdict on arc length and not on the question.** Rebuilt as
+an accumulated relational quantity it clears four of its five pre-registered criteria, and **fails
+the fifth: it still depends on how often the process was sampled** (0.759 against a 0.05 bar). Both
+halves of that result travel together, and all four members are reported with the measurements that
+stopped them.
 
 The family is treated in its own paper, *The Hodos Family: Equations Generated by a Relational
 Premise*, which carries the formulas, the provenance tags and the criteria. The point for this
@@ -238,22 +212,28 @@ open a systems paper.
 
 ## 6. The paper series
 
-VGM is a pipeline, not a single release. Four papers are archived; one is held back.
+VGM is a pipeline, not a single release. Each paper is archived separately and cited by name and
+DOI; there is no numbering to decode.
 
-| | Paper | Status |
+| Paper | What it does | DOI |
 |---|---|---|
-| P1 | *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* — the afferent self-model | [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) |
-| P2 | *The Vektorgeist Method (VGM)* — this overview | [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155) |
-| P3 | *Comparing Processes as Curves of Distributions* — the measurement track | [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
-| P4 | *Learning Without Weights* — learning built on that measurement | [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831) |
-| — | The sovereign local stack — the systems paper | Forthcoming |
+| *The Vektorgeist Method (VGM)* | this overview — states the premise and the commitments | [10.5281/zenodo.21613155](https://doi.org/10.5281/zenodo.21613155) |
+| *The Afferent Gnosis Model: Self-Knowledge Without Self-Control* | turns the premise on a machine's account of itself | [10.5281/zenodo.21613153](https://doi.org/10.5281/zenodo.21613153) |
+| *Hodos: Comparing Processes as Curves of Distributions* | measures processes by their relations | [10.5281/zenodo.21612829](https://doi.org/10.5281/zenodo.21612829) |
+| *Learning Without Weights* | learns from those measurements without training weights | [10.5281/zenodo.21612831](https://doi.org/10.5281/zenodo.21612831) |
+| *Beyond Weights: a Fixed Transmission Architecture* | separates computation from knowledge | [10.5281/zenodo.21850560](https://doi.org/10.5281/zenodo.21850560) |
+| *Testing a Conditional Claim About Trajectories* | how to build a control blind by construction, and five ways it was silently wrong | [10.5281/zenodo.21850664](https://doi.org/10.5281/zenodo.21850664) |
+| *The Hodos Family: Equations Generated by a Relational Premise* | the equations the premise generates | [10.5281/zenodo.21850666](https://doi.org/10.5281/zenodo.21850666) |
+| *A Clock Made of Relations* | intrinsic duration for a system of interacting parts | [10.5281/zenodo.21861429](https://doi.org/10.5281/zenodo.21861429) |
+| The sovereign local stack — the systems paper | forthcoming | — |
 
-They are one argument in four parts: P3 measures processes by their relations, P4 learns from
-those measurements without training weights, P1 turns the same relational premise on a machine's
-account of itself, and this paper states the method they share.
+One argument in several parts: the premise is stated here, the measurement track carries it into a
+distance between processes, the learning papers build on that measurement, the family paper poses
+the further equations the premise implies, and the self-model paper turns the same premise on a
+machine's account of itself.
 
-The working record behind P3 and P4 — negative results and retractions included, with the original
-wrong wording kept visible rather than deleted — is at
+The working record behind them — negative results and retractions included, with the original wrong
+wording kept visible rather than deleted — is at
 [xfloukiex-lab.github.io/hodos-study](https://xfloukiex-lab.github.io/hodos-study/).
 
 Further coined components fold in as the program continues; a running index is maintained at
