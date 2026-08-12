@@ -20,9 +20,12 @@ rather than trusting fluency; it observes itself through an **afferent-only self
 the pattern behind its behavior and reports without steering — the beginning of a relational theory
 of machine selfhood; and it holds that **emergence is a property of the pattern, never authored** —
 no installed "emergence layers," a rule the program learned by once breaking it. VGM is not one
-artifact but a program: a family of small, sovereign components that together make a system a person
-can own, inspect, and trust. This paper states the commitments, maps them onto the current body of
-work, and locates the program's humanistic premise in a companion work of nonfiction.
+artifact, and it is not the projects built with it: it is the method itself. Two bodies of work
+currently apply it — a research programme and a sovereign local stack, each a family of small,
+sovereign components that together make a system a person can own, inspect, and trust — and they
+align because they follow the same commitments. This paper states the commitments, maps them onto
+that current body of work, and locates the method's humanistic premise in a companion work of
+nonfiction.
 
 ## 1. The position
 
@@ -86,10 +89,12 @@ emergence is not emergence; it is an efferent channel wearing a costume. The lay
 sensing organs kept observe-only, and the lesson promoted to a commitment (reported in the AGM
 paper's discussion).
 
-## 3. The program
+## 3. The method applied
 
-The commitments above are realized as a family of focused components. Each is small; the method is in
-how they compose.
+VGM itself is the method — the premise and the five commitments. What follows is the current body
+of work that applies it: a family of focused components across the research programme and the
+sovereign stack. Each is small; the method is in how they compose, and none of them is what VGM
+*is*.
 
 **AGM — the afferent self-model (flagship, published).** AGM is a self-model of three organs — Aitía
 (cause), Gut (instinct), and Metron (measure) — that sits beside an agent and reconstructs the
@@ -212,8 +217,8 @@ open a systems paper.
 
 ## 6. The paper series
 
-VGM is a pipeline, not a single release. Each paper is archived separately and cited by name and
-DOI; there is no numbering to decode.
+The paper series is a pipeline, not a single release — the method accumulating a citable body of
+work. Each paper is archived separately and cited by name and DOI; there is no numbering to decode.
 
 | Paper | What it does | DOI |
 |---|---|---|

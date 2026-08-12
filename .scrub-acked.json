@@ -1,0 +1,12 @@
+{
+  "\"model proposes, oracle disposes\"": "the method's own published commitment name, quoted in the paper that defines it - paper content, not conversation",
+  "\"Model proposes, oracle disposes.\"": "the method's own published commitment name - paper content",
+  "\"Model proposes, oracle disposes\"": "the method's own published commitment name - paper content",
+  "\"The Vektorgeist Method (VGM)\"": "the paper's own served title, quoted by the publish tooling that verifies it",
+  "sites": {
+    "build.py|a Windows home-directory path": "pre-existing in HEAD of the public repo (Chrome path fallback); parked cleanup backlog per owner 2026-08-12 - flagged in the session report, not newly added",
+    "build.py|the developer's username": "same line as above; pre-existing in HEAD; parked cleanup backlog - flagged in the session report",
+    "ZENODO-SUBMISSION.md|a Windows home-directory path": "pre-existing in HEAD (file is headed DO-NOT-USE-AS-IS); parked cleanup backlog - flagged in the session report",
+    "ZENODO-SUBMISSION.md|the developer's username": "same file; pre-existing in HEAD; parked cleanup backlog - flagged in the session report"
+  }
+}
